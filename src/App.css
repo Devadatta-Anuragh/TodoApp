@@ -1,0 +1,11 @@
+input {
+  width: 100%;
+}
+
+.each-row {
+  margin: 10px 5px;
+}
+
+.each-btn {
+  min-width: 80px;
+}
